@@ -1,0 +1,64 @@
+body{
+    font-family: Helvetica, sans-serif;
+    background-image: url(background.jpg);
+    background-size: cover;
+    
+}
+.scatola{
+    
+    margin-top: 30px;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 15px;
+}
+
+
+header{
+    text-align: center;
+}
+.logotxt{
+    color: rgb(3, 224, 3);
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(3, 224, 3);
+    
+    margin: auto;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+main{
+    color: white;
+}
+
+ .titolino{
+    font-size: 18px;
+ }
+
+ .piccolo{
+    font-size: 12px;
+ }
+ .barra1{
+    background-color: orange;
+    width: 35%;
+    border-radius: 5px;
+    color: rgba(240, 248, 255, 0);
+ }
+
+ .barra2{
+    background-color: green;
+    width: 50%;
+    border-radius: 5px;
+    color: rgba(240, 248, 255, 0);
+ }
+
+ .barra3{
+    background-color: rgb(216, 32, 0);
+    width: 10%;
+    border-radius: 5px;
+    color: rgba(240, 248, 255, 0);
+ }
